@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.left-panel{
+    height: 800px;
+    width: 20%;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    float: left;
+}
+
+.right-panel{
+    height: 800px;
+    width: 80%;
+    background-color: whitesmoke;
+    color: white;
+    text-align: center;
+    float: right;
+    
+}
+
+.header{
+    background-color: goldenrod;
+    height: 25%;
+
+}
+
+.nav{
+    background-color: darkblue;
+    height: 10%;
+
+
+}
+
+.main{
+    background-color: lawngreen;
+    height: 50%;
+
+}
+
+.footer{
+
+    background-color: orangered;
+    height: 15%;
+
+}

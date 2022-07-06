@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: fuchsia;
+    color: white;
+    height: 100px;
+    text-align: center;
+}
+
+.nav{
+    background-color: cornflowerblue;
+    color: white;
+    height: 70px;
+    text-align: center;
+}
+
+.index{
+    height: 400px;
+
+    overflow: hidden;
+}
+
+.index_left{
+   height: 100%;
+   width: 30%;
+   background-color: blue;
+   float: left;
+   text-align: center;
+   color: white;
+}
+
+.index_right{
+
+    height: 100%;
+   width: 70%;
+   background-color: lightcoral;
+   float: right;
+   text-align: center;
+   color: white;
+
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
